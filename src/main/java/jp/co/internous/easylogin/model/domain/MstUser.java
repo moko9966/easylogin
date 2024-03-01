@@ -6,7 +6,6 @@ package jp.co.internous.easylogin.model.domain;
 		private String password;		
 		private String fullName;
 
-
 		public int getId() {
 		return id;
 		}
